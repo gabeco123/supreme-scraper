@@ -43,4 +43,4 @@ bot = Bot()
 
 
 
-bot.run("INSERT-Your-Bot-Token-Here")
+bot.run("Insert-Your-Bot-Token-Here")
